@@ -1,0 +1,4 @@
+Cookbooks
+=========
+
+Cookbooks for AWS
